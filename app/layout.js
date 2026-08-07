@@ -4,7 +4,7 @@ import Providers from "./providers";
 export const metadata = {
   title: "ABC Care 2 — Bothell & Mill Creek",
   description:
-  "ABC Care 2 offers licensed family child care in Bothell and Mill Creek, WA. A safe, caring place where children learn, grow, and thrive.",
+    "ABC Care 2 offers licensed family child care in Bothell and Mill Creek, WA. A safe, caring place where children learn, grow, and thrive.",
   verification: {
     google: "nkQ5DIdsdc9J4UrIXdyz6RipIHWoBT39LoVToGq5dtY",
   },
@@ -14,8 +14,15 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
-        <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="true" />
+        <link
+          rel="preconnect"
+          href="https://fonts.googleapis.com"
+        />
+        <link
+          rel="preconnect"
+          href="https://fonts.gstatic.com"
+          crossOrigin="true"
+        />
         <link
           href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;600;700;800&family=Nunito:wght@400;600;700;800;900&display=swap"
           rel="stylesheet"
