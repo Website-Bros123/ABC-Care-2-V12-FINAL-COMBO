@@ -4,10 +4,10 @@ import Providers from "./providers";
 export const metadata = {
   title: "ABC Care 2 — Bothell & Mill Creek",
   description:
-    "Licensed family child care in Bothell & Mill Creek, WA — a warm, safe, and engaging home where infants, toddlers, preschoolers, and school-age children learn, grow, and thrive.",
-  icons: {
-    icon: "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Ccircle cx='24' cy='24' r='23' fill='%23F2793D'/%3E%3C/svg%3E"
-  }
+  "ABC Care 2 offers licensed family child care in Bothell and Mill Creek, WA. A safe, caring place where children learn, grow, and thrive.",
+  verification: {
+    google: "nkQ5DIdsdc9J4UrIXdyz6RipIHWoBT39LoVToGq5dtY",
+  },
 };
 
 export default function RootLayout({ children }) {
