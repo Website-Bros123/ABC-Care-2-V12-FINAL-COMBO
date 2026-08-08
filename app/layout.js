@@ -4,7 +4,7 @@ import Providers from "./providers";
 export const metadata = {
   title: "ABC Care 2 — Bothell & Mill Creek",
   description:
-    "ABC Care 2 offers licensed family child care in Bothell and Mill Creek, WA. A safe, caring place where children learn, grow, and thrive.",
+    "Licensed family child care in Bothell & Mill Creek, WA — a warm, safe home where infants through school-age kids learn and thrive.",
   verification: {
     google: "nkQ5DIdsdc9J4UrIXdyz6RipIHWoBT39LoVToGq5dtY",
   },
